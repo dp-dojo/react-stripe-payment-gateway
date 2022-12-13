@@ -1,6 +1,6 @@
 # react-stripe-payment-gateway
 
-The current repository present a project made with node.js and React,
+The current repository present a project made with Django and React,
 
 ## RoadMap
 
