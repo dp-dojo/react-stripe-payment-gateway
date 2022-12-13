@@ -8,3 +8,4 @@ Suppose so that I am working on the issue #2 : define Database schema, by branch
 ```
 git checkout -b omonimus1/feature/#2-create-db-schema
 ```
+4. Create a PR to merge to develop
